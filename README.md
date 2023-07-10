@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.gifer.com/1Kvb.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/fHyM62TIjAYAAAAM/spike-spiegel-smoking.gif"  />
 
 ###
 
