@@ -8,7 +8,6 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/fHyM62TIjAYAAAAM/spike-spiegel-smoking.gif"  />
 </div>
 
 ###
